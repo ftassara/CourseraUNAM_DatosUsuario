@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CourseraUNAM_DatosUsuario</string>
+    <string name="nombre">Ingrese su Nombre Completo</string>
+    <string name="fecha">Fecha Nacimiento:</string>
+    <string name="telefono">Telefono:</string>
+    <string name="mail">EMail:</string>
+    <string name="desc">Descripción:</string>
+    <string name="pmail">mail</string>
+    <string name="pcontacto">contacto</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pdesc">descripcion</string>
+    <string name="fechanac">fechanac</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="btnEditar">Editar Contacto</string>
+    <string name="hintName">Ingrese su nombre completo</string>
+    <string name="hintDate">Seleccione la fecha</string>
+    <string name="hintDesc">Ingrese una descripcion del contacto</string>
+    <string name="hintTelefono">+54 11 1111-1111</string>
+    <string name="hintmail">name@mail.com</string>
+    <string name="tituloMail">Mail</string>
+    <string name="tituloTel">Telefono</string>
+    <string name="activada2Titulo">Confirme los datos</string>
+</resources>
